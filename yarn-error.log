@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/aletheia/.nvm/versions/node/v8.15.0/bin/node /usr/local/Cellar/yarn/1.13.0/libexec/bin/yarn.js add -D webpack webpack-cli copy-webpack-plugin webpack-dev-server
+
+PATH: 
+  /opt/local/bin:/opt/local/sbin:/opt/intel//openvino_2019.1.133/deployment_tools/model_optimizer:/Users/aletheia/anaconda3/bin:~/.local/bin:/usr/local/bin:/Library/Developer/Toolchains/swift-latest.xctoolchain/usr/bin:/Users/aletheia/.nvm/versions/node/v8.15.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/aletheia/.rvm/bin:/Users/aletheia/.local/bin
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  8.15.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/aletheia/Sources/private/timesheet-manager/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:304:30)
+      at /usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:315:13
+      at <anonymous>
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

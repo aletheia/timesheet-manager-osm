@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "timesheet-manager-dev-20190630210544-authRole",
+            "UnauthRoleArn": "arn:aws:iam::333655066602:role/timesheet-manager-dev-20190630210544-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::333655066602:role/timesheet-manager-dev-20190630210544-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "timesheet-manager-dev-20190630210544-deployment",
+            "UnauthRoleName": "timesheet-manager-dev-20190630210544-unauthRole",
+            "StackName": "timesheet-manager-dev-20190630210544",
+            "StackId": "arn:aws:cloudformation:eu-west-1:333655066602:stack/timesheet-manager-dev-20190630210544/108ceaa0-9b6a-11e9-9b55-0a4c7381ba1c"
+        },
+        "categories": {
+            "auth": {
+                "timesheetmanager4c8a4166": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"hosting": {
+		"S3AndCloudFront": {
+			"service": "S3AndCloudFront",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"auth": {
+		"timesheetmanager4c8a4166": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"timesheetManager": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
